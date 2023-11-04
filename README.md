@@ -1,4 +1,4 @@
-# Keyboard Accordion
+# MIDI Electronic Keyboard Accordion
 
 Play the diatonic button accordion with your computer keyboard!
 
