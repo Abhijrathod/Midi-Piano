@@ -2,7 +2,7 @@
 
 Play the diatonic button accordion with your computer keyboard!
 
-![](./screenshot.png)
+![Capture](https://github.com/Abhijrathod/Midi-Piano/assets/54209169/2824ad10-1f1d-4ccd-b784-a65d6c7c6e05)
 
 ## Todo
 
